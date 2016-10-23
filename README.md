@@ -2,6 +2,10 @@
 
 Sierpinski Triangle visualization using golang image library.
 
+### Playground 
+
+You can play with this here: https://awmanoj.github.io/public/sierpinski.html 
+
 ### Introduction
 
 `Sierpinski Triangle` were first described in 1915 by Waclaw Sierpinski, a polish mathematician. Sierpinski Gasket can be drawn using pencil and paper. Follow these steps:
